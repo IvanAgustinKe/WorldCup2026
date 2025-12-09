@@ -1,5 +1,7 @@
 WorldCup
 
+Alumno: Ivan Agustin Sandiyú
+
 La aplicación WorldCup tiene algunos errores que deben ser corregidos:
 
 1- La primer pantalla muestra un mensaje "cargando" mientras carga los datos, deberia mostrar un CircularProgressIndicator
