@@ -1,6 +1,6 @@
 WorldCup
 
-Alumno: Ivan Agustin Sandiyú
+Alumno:  Agustin 
 
 La aplicación WorldCup tiene algunos errores que deben ser corregidos:
 
